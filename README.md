@@ -1,5 +1,5 @@
 # GroundStation
-Ground Station Software working with real data created with PyQt6 framework for TEKNOFEST Model Satellite Contest.
+🛰️Ground Station Software working with real data created with PyQt6 framework for TEKNOFEST Model Satellite Contest.🛰️
 
 The ground station that I have created utilizes Xbee communication to send and receive data with the model satellite, allowing for a stable and reliable connection. 
 
